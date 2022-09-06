@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikyy77
-- 👀 I’m interested in building apps with javascript and java
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in building apps with Java
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me -> michal.darovec@gmail.com 
 
